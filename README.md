@@ -2,12 +2,12 @@
 
 Welcome to DrumMaster, an interactive web-based drum kit that allows you to play drum sounds using your keyboard. This project is a fun and educational way to learn JavaScript and web development.
 Table of Contents
-- Introduction
-- Features
-- Installation
-- Usage
-- Contributing
-- License
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
