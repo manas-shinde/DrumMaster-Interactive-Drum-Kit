@@ -2,6 +2,7 @@
 
 Welcome to DrumMaster, an interactive web-based drum kit that allows you to play drum sounds using your keyboard. This project is a fun and educational way to learn JavaScript and web development.
 Table of Contents
+
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
@@ -17,6 +18,7 @@ DrumMaster is inspired by the JavaScript Drum Kit project from the JavaScript30 
 
 - Interactive drum sounds triggered by keyboard keys.
 - Visual feedback for each key press.
+- Record and playback functionality.
 - Simple and intuitive interface.
 
 ## Installation
@@ -28,21 +30,31 @@ To run DrumMaster locally, follow these steps:
 ```bash
 git clone https://github.com/yourusername/drummaster.git
 ```
+
 - Navigate to the project directory:
+
 ```bash
 cd drummaster
 ```
+
 - Open index.html in your web browser:
+
 ```bash
 open index.html
 ```
+
 or simply drag and drop the index.html file into your browser.
 
 ## Usage
 
 Once you have the project open in your browser:
+
 1. Press the keys A, S, D, F, G, H, J, K, and L to play different drum sounds.
 2. Observe the visual feedback on the corresponding keys on the screen.
+3. Click the "Record" button to start recording your drum sequence.
+4. Press the keys to play drum sounds while recording.
+5. Click the "Stop Recording" button to stop recording.
+6. Click the "Play" button to playback your recorded sequence.
 
 ## Key Sound Mapping
 
